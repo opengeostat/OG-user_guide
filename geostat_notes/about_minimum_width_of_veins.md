@@ -3,7 +3,7 @@
 Minimum width is a modelling parameter or constraint that is usually applied at the time of modelling narrow veins. The most common reason for imposing a minimum width is to ensure the average grade interpolated is similar to the grade of mining stopes. However, the same results are obtained by adding dilution. 
 
 Let's review the example. Fig. 1. a) shows the interpolation in a narrow vein of constant thickness 1m and applying internal dilution, assuming the stopes will be 5m width and 20m high. Fig. 1. b) shows the same narrow vein interpolated after applying a minimum width.
-The average grade of the vein plus the waste over 20 m is approximately 9.2 g/t in both cases. In the case of the the vein modelled with minimum width this is `(8m*0g/t + 1m*2g/t + 1m*90g/t)/10m = 9.2g/t`. The 1m vein itself (Fig. 1. a)) is (2 g/t + 90 g/t)/2= 46 g/t, but there are 4m of waste at zero grade added as dilution, so the average grade is `1m*46g/t + 4m*0g/t)/5m = 9.2g/t`.
+The average grade of the vein plus the waste over 20 m is approximately 9.2 g/t in both cases. In the case of the the vein modelled with minimum width this is `(8m*0g/t + 1m*2g/t + 1m*90g/t)/10m = 9.2g/t`. The 1m vein itself (Fig. 1. a)) is `(2 g/t + 90 g/t)/2= 46 g/t`, but there are 4m of waste at zero grade added as dilution, so the average grade is `(1m*46g/t + 4m*0g/t)/5m = 9.2g/t`.
 
 | ![Figure 1](fig1.svg) |
 |:--:|
