@@ -7,6 +7,6 @@ Open source sofware:
 - [ ] Variogram
 
 Geostatistical notes: 
-- [ ] Modelling narrow veins vs applying minimum width.
+- [x] [Modelling narrow veins vs applying minimum width.](https://github.com/opengeostat/OG-user_guide/blob/main/geostat_notes/about_minimum_width_of_veins.md)
 - [ ] Rotations for variography.
 - [ ] Variography with graphs.
