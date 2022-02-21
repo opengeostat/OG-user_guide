@@ -1,4 +1,4 @@
-# Geostat note. About using minimum width in vein modeling.
+# Geostat note. About using minimum width for vein modelling.
 
 Minimum width is a modelling parameter or constraint that is usually applied at the time of modelling narrow veins. The most common reason for imposing a minimum width is to ensure the average grade interpolated is similar to the grade of mining stopes. However, the same results are obtained by adding dilution. 
 
